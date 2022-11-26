@@ -8,7 +8,7 @@ on:
 env:
   AZURE_WEBAPP_NAME: "az400m08l011111"    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: '.'             # set this to the path to your web app project, defaults to the repository root
-  DOTNET_VERSION: '3.1.302'                  # set this to the dot net version to use
+  DOTNET_VERSION: '3.1.302'            
   RESOURCEGROUPNAME: "az400m08l011111-rg"
   LOCATION: "South Central US"
   HOSTINGPLANNAME: "az400m08l011111-plan"
